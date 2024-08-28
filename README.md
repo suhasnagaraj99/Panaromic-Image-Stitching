@@ -29,5 +29,5 @@ Follow these steps to run the code:
 ```bash
 python3 suhas99_project2_problem2.py
 ```
-2. The script matches the features between images and stitches them togeather to get a panoramic image as an output.
-3. The script saves 2 images, `matches.jpg` and `Pano.jpg` as output.
+3. The script matches the features between images and stitches them togeather to get a panoramic image as an output.
+4. The script saves 2 images, `matches.jpg` and `Pano.jpg` as output.
